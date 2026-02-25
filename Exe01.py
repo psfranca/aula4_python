@@ -11,3 +11,7 @@ anual.
 salário_mensal = float(input('informe o seu salário mensal:'))
 
 #PROCESSAMENTO
+salário_anual = salário_mensal *12
+
+#SAÍDA
+print('Salario anual: R$', salario_anual)
