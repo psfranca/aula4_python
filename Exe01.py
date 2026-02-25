@@ -4,7 +4,7 @@ anual.
 '''
 
 
-
+print('Exercício 01')
 
 #ENTRADA
 #CAPTURANDO O SALÁRIO E CONVERTENDO PARA FLOAT
